@@ -1,0 +1,13 @@
+{ 
+	//Token du bot//
+    "token"  : "Votre Token",
+
+    //Prefix// 
+    "prefix" : "/", 
+
+    //Id du serveur///
+    "serverID" : "714108040709799946", 
+
+    //Nom des grade qui on acces au chenel ///
+    "ModeratorRoles" : ["Staff","Dev"] 
+}

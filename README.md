@@ -26,6 +26,7 @@ Pour connfigiré votre bot vous rendre dans le fichier **config.json**
 }
 ```
 
+# Information
 
 Mon site: **http://julioju.gq/**
 

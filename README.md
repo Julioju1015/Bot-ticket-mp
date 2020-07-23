@@ -1,30 +1,34 @@
 # Bot-ticket-mp
-Voici un bot discord de ticket en V11 de discord.js
+
+:warning: Ceci est un refonte **(V12)** par Allan#4650 de ma version de **(v11)** j'e l'ai remodifier a ma sauce. 
+
+Merci a toi Allan#4650
+
+Voici un bot discord de ticket mp en v12 de discord.js
 
 Pour ouvrir un ticket **mp le bot une fois qu'il est en ligne**
 
-Pour fermer un ticket **/close**
+Pour fermer un ticket dire **close** dans la salons crée sur le serveur
 
 
 # Configuration
 
-Pour connfigiré votre bot vous rendre dans le fichier **config.json**
+Pour connfigiré votre bot vous rendre dans le fichier **index.js**
+
+et y rentré le token de votre bot a la ligne **4**
 
 ```
-{ 
-	//Token du bot//
-    "token"  : "Votre Token",
-
-    //Prefix// 
-    "prefix" : "/", 
-
-    //Id du serveur///
-    "serverID" : "714108040709799946", 
-
-    //Nom des grade qui on acces au chenel ///
-    "ModeratorRoles" : ["Staff","Dev"] 
-}
+const TOKEN = "token du bot";
 ```
+
+Vous rendre dans le fichier **message.js**
+
+et y rentré l'id de votre serveur a la ligne **23**
+
+```
+   var guild = bot.guilds.cache.find(g => g.id === "id de votre serveur")
+```
+
 
 # Information
 

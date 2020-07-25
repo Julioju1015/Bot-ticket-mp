@@ -29,6 +29,12 @@ et y rentré l'id de votre serveur a la ligne **23**
    var guild = bot.guilds.cache.find(g => g.id === "id de votre serveur")
 ```
 
+A la ligne **24** du **message.js**, vous avez ce code : 
+
+`const STAFF = guild.roles.cache.find(role => role.name == 'Tickets')`
+
+Vous devez remplacer Tickets par le nom du rôle que les helpeurs auront. **Ce rôle ne sera pas crée automatiquement par le robot.**
+
 
 # Information
 

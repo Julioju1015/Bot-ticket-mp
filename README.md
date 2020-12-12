@@ -1,9 +1,5 @@
 # Bot-ticket-mp
 
-:warning: Ceci est un refonte **(V12)** par Allan#4650 de ma version de **(v11)** j'e l'ai remodifier a ma sauce. 
-
-Merci a toi Allan#4650
-
 Voici un bot discord de ticket mp en v12 de discord.js
 
 Pour ouvrir un ticket **mp le bot une fois qu'il est en ligne**

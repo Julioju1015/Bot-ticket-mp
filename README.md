@@ -2,7 +2,7 @@
 
 :warning:  Code plus d'actualité beaucoup de bug !
 
-Un nouveau code est disponible en revanche [ici](https://github.com/dev-mamba)
+Un nouveau code est disponible en revanche [ici](https://github.com/Dev-Mamba/ticket-mp-modmail)
 
 
 # Information
